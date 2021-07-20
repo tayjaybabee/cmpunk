@@ -1,0 +1,27 @@
+{
+    "name": "cMPUNK",
+    "description": "",
+    "dependencies": {
+        "serial": "*",
+        "adafruit-circuit-playground-express": "*",
+        "keyboard": "*",
+        "esp32": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.15.16",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
