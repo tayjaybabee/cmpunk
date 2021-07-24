@@ -1,5 +1,5 @@
 /**
- * Convenient Mobile Plug-N-Press Uptime Nullification Kit
+ * Convenient Multi-Platform Uptime Nullification Kit
  * 
  *                               (cmPUNK) v1.0
  */

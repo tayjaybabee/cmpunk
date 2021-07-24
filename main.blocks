@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="C)A$6HN*I;#E|X8uAsMj">PAYLOAD</variable><variable id="4aNMb6o[njiB#B;c[[!H">armed</variable><variable id="04M|V9(8d|O$wfmhCz10">isRight</variable></variables><comment id="nW0UeED3c7}^)+t:H{1p" data="0" x="212" y="-634" h="120" w="480">Convenient Mobile Plug-N-Press Uptime Nullification Kit
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="C)A$6HN*I;#E|X8uAsMj">PAYLOAD</variable><variable id="4aNMb6o[njiB#B;c[[!H">armed</variable><variable id="04M|V9(8d|O$wfmhCz10">isRight</variable></variables><comment id="nW0UeED3c7}^)+t:H{1p" data="0" x="212" y="-634" h="120" w="480">Convenient Multi-Platform Uptime Nullification Kit
                               (cmPUNK) v1.0</comment><comment id="r6id[WqO9u?]3`XB7AdF" x="51" y="-506" h="215" w="872">1. Plug into USB port of target
 2. Use Slide Switch (D7) to select target OS:
   - Right Pos (Lights Blue): Windows
